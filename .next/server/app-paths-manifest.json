@@ -1,8 +1,9 @@
 {
   "/not-found": "app/not-found.js",
   "/ayarlar/page": "app/ayarlar/page.js",
-  "/istatistikler/page": "app/istatistikler/page.js",
   "/sistem/page": "app/sistem/page.js",
   "/rezervasyonlar/page": "app/rezervasyonlar/page.js",
+  "/istatistikler/page": "app/istatistikler/page.js",
+  "/odemeler/page": "app/odemeler/page.js",
   "/rezervasyonlar/[id]/page": "app/rezervasyonlar/[id]/page.js"
 }

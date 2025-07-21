@@ -41,6 +41,11 @@
       "static/chunks/main-app.js",
       "static/chunks/app/istatistikler/page.js"
     ],
+    "/odemeler/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/odemeler/page.js"
+    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
